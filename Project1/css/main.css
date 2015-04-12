@@ -1,0 +1,33 @@
+body{
+background-color: #DDDCC5;
+
+}
+
+h1{
+	font-family: 'Fredericka the Great', cursive;
+	color: #1D2326;	
+}
+
+
+h2{
+	font-family: 'Fredericka the Great', cursive;
+	font-size: 40px;
+	color: #611427;
+}
+
+h3{
+	font-family: 'Fredericka the Great', cursive;
+	font-size: 30px;
+	color: #611427;
+}
+
+h4{
+	font-family: 'Josefin Slab', serif;
+	font-size: 30px;
+	color: #611427;
+}
+
+p{
+	font-family: 'Josefin Slab', serif;	
+}
+
